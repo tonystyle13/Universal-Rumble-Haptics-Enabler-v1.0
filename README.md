@@ -36,9 +36,11 @@ This module is meant to **help developers, modders, and tinkerers** who already 
 * Compatible with **both ARM64 and x86_64** devices
 * Tested on:
 
-  * Lenovo Pad M9 (MTK)
-  * Xiaomi Pad 5 (Snapdragon)
-  * Various Bluetooth gamepads (DS4, DS5, Xbox, 8BitDo, etc.)
+  * Lenovo Pad M9 Lineage OS
+  * Xiaomi Pad 5 Mahiro Kernel
+  * Redmi Note 8 Pro
+  * Poco F3
+  * Various Bluetooth gamepads (DS4, DS5, Xbox, BSP D-8,9 etc.)
 
 ---
 
